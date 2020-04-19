@@ -2,7 +2,7 @@ body {
 	text-align: center;
 }
 #header {
-	font-family: RALEWAY;
+	font-family: raleway;
 	color: #0D2C40;
 	letter-spacing: 1px;
 	font-weight: 400;
@@ -10,14 +10,14 @@ body {
 }
 .link {
 	text-decoration: none;
-	font-family: RALEWAY;
+	font-family: raleway;
 	color: #F15B31;
 	letter-spacing: 1px;
 	font-weight: 600;
 	font-size: 18px;
 }
 #instructions {
-	font-family: RALEWAY;
+	font-family: raleway;
 	color: #0D2C40;
 	letter-spacing: 1px;
 	font-weight: 600;

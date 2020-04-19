@@ -1,0 +1,30 @@
+body {
+	text-align: center;
+}
+#header {
+	font-family: RALEWAY;
+	color: #0D2C40;
+	letter-spacing: 1px;
+	font-weight: 400;
+	font-size: 45px;
+}
+.link {
+	text-decoration: none;
+	font-family: RALEWAY;
+	color: #F15B31;
+	letter-spacing: 1px;
+	font-weight: 600;
+	font-size: 18px;
+}
+#instructions {
+	font-family: RALEWAY;
+	color: #0D2C40;
+	letter-spacing: 1px;
+	font-weight: 600;
+	font-size: 20px;
+}
+#description {
+	font-family: "droid-serif";
+	line-height: 26px;
+	font-size: 18px;
+}
